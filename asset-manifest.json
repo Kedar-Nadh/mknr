@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/mknr/static/css/main.283093fd.css",
-    "main.js": "/mknr/static/js/main.e99ed1cc.js",
-    "static/media/Meme_generator.png": "/mknr/static/media/Meme_generator.01aa9e2aaa092d5c2b7c.png",
-    "static/media/kedarnadh.png": "/mknr/static/media/kedarnadh.38ab6a1aa63e634a0546.png",
-    "static/media/Tenzies_game.png": "/mknr/static/media/Tenzies_game.ee804804d38429d424c3.png",
-    "static/media/Notes.png": "/mknr/static/media/Notes.c92be641c9efabb081d5.png",
-    "static/media/Tic_Tac_Toe.png": "/mknr/static/media/Tic_Tac_Toe.017b5d20b4da07b56749.png",
-    "static/media/contact_vector.svg": "/mknr/static/media/contact_vector.cf42aa5499e88e5021db630b0d4991d5.svg",
-    "static/media/home-avatar.svg": "/mknr/static/media/home-avatar.6c113ccfb0eb8a665a8a1b2b277520ed.svg",
-    "static/media/work_vector.svg": "/mknr/static/media/work_vector.1e60ba8832fb95e863aa6c921b3d5e6b.svg",
-    "static/media/telegram.svg": "/mknr/static/media/telegram.38f70d21b57f9b6d7440d015d38f54c2.svg",
-    "static/media/github.svg": "/mknr/static/media/github.893247ec3efa77233d696d2dd448b04a.svg",
-    "static/media/linkedin.svg": "/mknr/static/media/linkedin.691802a3e8baf18edc5bae1ba5ba912e.svg",
-    "index.html": "/mknr/index.html",
-    "static/media/close.svg": "/mknr/static/media/close.8152fb07c006819061040143abae91a3.svg",
-    "static/media/menu.svg": "/mknr/static/media/menu.95d2abf9cb8285318ce0053199376875.svg",
-    "main.283093fd.css.map": "/mknr/static/css/main.283093fd.css.map",
-    "main.e99ed1cc.js.map": "/mknr/static/js/main.e99ed1cc.js.map"
+    "main.css": "/static/css/main.283093fd.css",
+    "main.js": "/static/js/main.1b2f6a37.js",
+    "static/media/Meme_generator.png": "/static/media/Meme_generator.01aa9e2aaa092d5c2b7c.png",
+    "static/media/kedarnadh.png": "/static/media/kedarnadh.38ab6a1aa63e634a0546.png",
+    "static/media/Tenzies_game.png": "/static/media/Tenzies_game.ee804804d38429d424c3.png",
+    "static/media/Notes.png": "/static/media/Notes.c92be641c9efabb081d5.png",
+    "static/media/Tic_Tac_Toe.png": "/static/media/Tic_Tac_Toe.017b5d20b4da07b56749.png",
+    "static/media/contact_vector.svg": "/static/media/contact_vector.cf42aa5499e88e5021db630b0d4991d5.svg",
+    "static/media/home-avatar.svg": "/static/media/home-avatar.6c113ccfb0eb8a665a8a1b2b277520ed.svg",
+    "static/media/work_vector.svg": "/static/media/work_vector.1e60ba8832fb95e863aa6c921b3d5e6b.svg",
+    "static/media/telegram.svg": "/static/media/telegram.38f70d21b57f9b6d7440d015d38f54c2.svg",
+    "static/media/github.svg": "/static/media/github.893247ec3efa77233d696d2dd448b04a.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.691802a3e8baf18edc5bae1ba5ba912e.svg",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.8152fb07c006819061040143abae91a3.svg",
+    "static/media/menu.svg": "/static/media/menu.95d2abf9cb8285318ce0053199376875.svg",
+    "main.283093fd.css.map": "/static/css/main.283093fd.css.map",
+    "main.1b2f6a37.js.map": "/static/js/main.1b2f6a37.js.map"
   },
   "entrypoints": [
     "static/css/main.283093fd.css",
-    "static/js/main.e99ed1cc.js"
+    "static/js/main.1b2f6a37.js"
   ]
 }
