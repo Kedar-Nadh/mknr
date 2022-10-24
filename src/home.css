@@ -1,0 +1,61 @@
+.Home{
+    min-height: 85vh;
+    padding: 0rem 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.Home--text{
+    width: 50%;
+}
+
+.Home--avatar{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.Home--avatar-image{
+    height: 30rem;
+    width: 28rem;
+}
+
+.Home--text-intro {
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 3rem;
+    line-height: 1rem;
+    letter-spacing: -0.05em;
+}
+
+.Home--text-about {
+    font-family: 'Courier Prime', monospace;
+    font-size: 1.1rem;
+    letter-spacing: -0.05em;
+
+}
+
+@media screen and (max-width:900px) {
+    .Home {
+        flex-direction: column-reverse;
+    }
+    .Home--text{
+        width: 100%;
+    }
+    .Home--avatar{
+        width: 100%;
+        justify-content: center;
+    }
+    .Home--avatar-image{
+        height: 22rem;
+        width: 21rem;
+    }
+    .Home--text-intro {
+        font-size: 2rem;
+        line-height: 1rem;
+        letter-spacing: -0.05em;
+    }
+}
