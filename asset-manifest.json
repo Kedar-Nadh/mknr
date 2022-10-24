@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mknr/static/css/main.283093fd.css",
-    "main.js": "/mknr/static/js/main.d1e5b7ec.js",
+    "main.js": "/mknr/static/js/main.05ce482e.js",
     "static/media/Meme_generator.png": "/mknr/static/media/Meme_generator.01aa9e2aaa092d5c2b7c.png",
     "static/media/kedarnadh.png": "/mknr/static/media/kedarnadh.38ab6a1aa63e634a0546.png",
     "static/media/Tenzies_game.png": "/mknr/static/media/Tenzies_game.ee804804d38429d424c3.png",
@@ -17,10 +17,10 @@
     "static/media/close.svg": "/mknr/static/media/close.8152fb07c006819061040143abae91a3.svg",
     "static/media/menu.svg": "/mknr/static/media/menu.95d2abf9cb8285318ce0053199376875.svg",
     "main.283093fd.css.map": "/mknr/static/css/main.283093fd.css.map",
-    "main.d1e5b7ec.js.map": "/mknr/static/js/main.d1e5b7ec.js.map"
+    "main.05ce482e.js.map": "/mknr/static/js/main.05ce482e.js.map"
   },
   "entrypoints": [
     "static/css/main.283093fd.css",
-    "static/js/main.d1e5b7ec.js"
+    "static/js/main.05ce482e.js"
   ]
 }
