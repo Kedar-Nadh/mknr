@@ -9,7 +9,7 @@ export default function Footer(){
                 <a href="https://github.com/Kedar-Nadh"><img src={require("../icons/github.svg").default} alt="github"/></a>
                 <a href="https://t.me/Kedar_Nadh"><img src={require("../icons/telegram.svg").default} alt="telegram"/></a>
             </div>
-            <p className="copyrights">&copy;2022 by kedarnadh</p>
+            <p className="copyrights">&copy;2023 by kedarnadh</p>
         </div>
     )
 }
