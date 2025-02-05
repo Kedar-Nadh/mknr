@@ -60,34 +60,36 @@
     font-weight: 500;
 }
 
-.About--experience {
+.About--work {
     font-family: 'Courier Prime', monospace;
     font-size: 1.1rem;
 }
 
-.About--experience-item {
+.About--work-item {
     display: flex;
     justify-content: flex-start;
     gap: 20px;
     margin-bottom: 20px;
 }
 
-.About--experience-item-company {
+.About--work-item-company {
+    margin: 0px;
     font-weight: bold;
-    margin: 0;
 }
 
-.About--experience-item-role {
+.About--work-item-position {
     font-style: italic;
-    margin: 0;
+    font-size: 0.9rem;
+    margin: 0px;
 }
 
-.About--experience-item-duration {
-    margin: 0;
+.About--work-item-description {
+    font-size: 0.9rem;
+    margin: 0px;
 }
 
-.About--experience-item-description {
-    margin-top: 5px;
+.About--work-item-duration {
+    margin: 0px;
 }
 
 .About--skills {
@@ -132,30 +134,22 @@
 }
 
 @media screen and (max-width:900px) {
-    .About--image{
+    .About--image {
         height: 16rem;
     }
 
-    .About--title{
+    .About--title {
         font-size: 1.5rem;
     }
 
-    .About--experience {
-        font-size: 1.1rem;
-    }
-
-    .About--experience-item {
+    .About--work-item {
         align-items: flex-start;
         flex-direction: column;
         margin-bottom: 20px;
-        gap: 0;
+        gap: 0px;
     }
 
-    .About--experience-item-description {
-        font-size: 1rem;
-    }
-
-    .About--education{
+    .About--education {
         font-size: 1.1rem;
     }
 
