@@ -19,8 +19,8 @@ export default function About(){
             </div>
             <p className="About--side-heading">Working Experience -</p>
             <div className="About--work">
-                <div className="About--work-item">
-                    <div>
+                <div>
+                    <div className="About--work-item">
                         <div>
                             <p className="About--work-item-company">Torry Harris Integration Solutions</p>
                             <p className="About--work-item-position">Associate Software Engineer</p>
@@ -29,13 +29,13 @@ export default function About(){
                     </div>
                     <p className="About--work-item-description">Worked on creating data pipelines using Ab Initio, improving performance and reducing memory usage. Collaborated with different teams to deliver high-quality solutions that met everyone's needs.</p>
                 </div>
-                <div className="About--work-item">
-                    <div>
-                    <div>
-                        <p className="About--work-item-company">Torry Harris Integration Solutions</p>
-                        <p className="About--work-item-position">Associate Software Engineer Trainee</p>
-                    </div>
-                    <p className="About--work-item-duration">(Aug 2023 – Feb 2024)</p>
+                <div>
+                    <div className="About--work-item">
+                        <div>
+                            <p className="About--work-item-company">Torry Harris Integration Solutions</p>
+                            <p className="About--work-item-position">Associate Software Engineer Trainee</p>
+                        </div>
+                        <p className="About--work-item-duration">(Aug 2023 – Feb 2024)</p>
                     </div>
                     <p className="About--work-item-description">Built a full-stack app called Kupanify, where users can share and access unused coupons. Deployed the app on the cloud and gained experience with various development tools and cloud services to help scale the app.</p>
                 </div>
