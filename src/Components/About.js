@@ -7,7 +7,7 @@ export default function About(){
             <p className="About--title">About me...</p>
             <div className="About--image-box"><img className="About--image" src={require("../images/kedarnadh.png")} alt="kedarnadh" /></div>
             <h2 className="About--name">Moram KedarNadh Reddy</h2>
-            <p class="About--text">Originally from the land of temples, Tirupati 🛕. Now living the tech life in Bengaluru 💻🌆</p>
+            <p class="About--text">Originally from the land of temples, Tirupati 🛕, now living the tech life in Bengaluru 💻🌆</p>
             <p class="About--text">I spend my days coding and creating apps like a tech wizard 🧙♂️✨</p>
             <div class="About--subgroup">
               <p class="About--text">When I'm not coding, you'll find me:</p>
@@ -21,19 +21,23 @@ export default function About(){
             <div className="About--work">
                 <div className="About--work-item">
                     <div>
-                        <p className="About--work-item-company">Torry Harris Integration Solutions</p>
-                        <p className="About--work-item-position">Associate Software Engineer</p>
-                        <p className="About--work-item-description">Worked on creating data pipelines using Ab Initio, improving performance and reducing memory usage. Collaborated with different teams to deliver high-quality solutions that met everyone's needs.</p>
+                        <div>
+                            <p className="About--work-item-company">Torry Harris Integration Solutions</p>
+                            <p className="About--work-item-position">Associate Software Engineer</p>
+                        </div>
+                        <p className="About--work-item-duration">(Feb 2024 – Present)</p>
                     </div>
-                    <p className="About--work-item-duration">(Feb 2024 – Present)</p>
+                    <p className="About--work-item-description">Worked on creating data pipelines using Ab Initio, improving performance and reducing memory usage. Collaborated with different teams to deliver high-quality solutions that met everyone's needs.</p>
                 </div>
                 <div className="About--work-item">
                     <div>
+                    <div>
                         <p className="About--work-item-company">Torry Harris Integration Solutions</p>
                         <p className="About--work-item-position">Associate Software Engineer Trainee</p>
-                        <p className="About--work-item-description">Built a full-stack app called Kupanify, where users can share and access unused coupons. Deployed the app on the cloud and gained experience with various development tools and cloud services to help scale the app.</p>
                     </div>
                     <p className="About--work-item-duration">(Aug 2023 – Feb 2024)</p>
+                    </div>
+                    <p className="About--work-item-description">Built a full-stack app called Kupanify, where users can share and access unused coupons. Deployed the app on the cloud and gained experience with various development tools and cloud services to help scale the app.</p>
                 </div>
             </div>
             <p className="About--side-heading">Tools I use -</p>
