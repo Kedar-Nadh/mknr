@@ -7,7 +7,7 @@ export default function About(){
             <p className="About--title">About me...</p>
             <div className="About--image-box"><img className="About--image" src={require("../images/kedarnadh.png")} alt="kedarnadh" /></div>
             <h2 className="About--name">Moram KedarNadh Reddy</h2>
-            <p class="About--text">Originally from the land of temples, Tirupati 🛕<br>Now living the tech life in Bengaluru 💻🌆</p>
+            <p class="About--text">Originally from the land of temples, Tirupati 🛕. Now living the tech life in Bengaluru 💻🌆</p>
             <p class="About--text">I spend my days coding and creating apps like a tech wizard 🧙♂️✨</p>
             <div class="About--subgroup">
               <p class="About--text">When I'm not coding, you'll find me:</p>
