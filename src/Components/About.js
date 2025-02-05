@@ -5,7 +5,7 @@ export default function About(){
     return(
         <div className="About">
             <p className="About--title">About me...</p>
-            <div className="About--image-box"><img className="About--image" src={require("../images/kedarnadh.png")} alt="kedarnadh" /></div>
+            <div className="About--image-box"><img className="About--image" src={require("../images/kedarnadh-1.png")} alt="kedarnadh" /></div>
             <h2 className="About--name">Moram KedarNadh Reddy</h2>
             <p className="About--text">I'm a front-end developer from Tirupati, Andhra Pradesh, India. I work on front-end development and design projects. I enjoy creating visually appealing websites and web apps.</p>
             <p className="About--text">When I'm not coding, I enjoy watching movies or browsing YouTube.</p>
