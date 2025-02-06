@@ -38,6 +38,8 @@
   font-size: 1.1rem;
   line-height: 1.4;
   margin: 0.5rem 0;
+  display: inline-block;
+  width: 100%;
 }
 
 .About--subgroup {
@@ -47,11 +49,21 @@
 .About--subgroup ul {
   padding-left: 1.5rem;
   margin: 0.5rem 0 0 1rem;
+  list-style-position: outside;  
 }
 
 .About--subgroup li {
   margin-bottom: 0.4rem;
   text-indent: -0.5rem;
+  display: flex;
+  align-items: baseline;
+}
+
+.emoji {
+  vertical-align: middle;
+  font-size: 1em;
+  margin: 0 2px;
+  line-height: 1;
 }
 
 .About--side-heading {
@@ -142,6 +154,15 @@
         font-size: 1.5rem;
     }
 
+    .emoji {
+        font-size: 0.9em;
+        margin: 0 1px;
+    }
+      
+    .About--subgroup li {
+        align-items: center;
+    }
+    
     .About--work-item {
         align-items: flex-start;
         flex-direction: column;
