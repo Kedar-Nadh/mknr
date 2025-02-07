@@ -48,9 +48,11 @@ export default function About() {
             </div>
             <p className="About--work-item-duration">(Feb 2024 – Present)</p>
           </div>
-          <p className="About--work-item-description">
-            Worked on creating data pipelines using Ab Initio, improving performance and reducing memory usage. Collaborated with different teams to deliver high-quality solutions that met everyone's needs.
-          </p>
+          <ul className="About--work-item-description">
+            <li>
+              Worked on creating data pipelines using Ab Initio, improving performance and reducing memory usage. Collaborated with different teams to deliver high-quality solutions that met everyone's needs.
+            </li>
+          </ul>
         </div>
 
         <div>
@@ -63,9 +65,11 @@ export default function About() {
             </div>
             <p className="About--work-item-duration">(Aug 2023 – Feb 2024)</p>
           </div>
-          <p className="About--work-item-description">
-            Built a full-stack app called Kupanify, where users can share and access unused coupons. Deployed the app on the cloud and gained experience with various development tools and cloud services to help scale the app.
-          </p>
+          <ul className="About--work-item-description">
+            <li>
+              Built a full-stack app called Kupanify, where users can share and access unused coupons. Deployed the app on the cloud and gained experience with various development tools and cloud services to help scale the app.
+            </li>
+          </ul>
         </div>
       </div>
 
