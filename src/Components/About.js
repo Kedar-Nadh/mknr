@@ -7,14 +7,14 @@ export default function About(){
             <p className="About--title">About me...</p>
             <div className="About--image-box"><img className="About--image" src={require("../images/kedarnadh.png")} alt="kedarnadh" /></div>
             <h2 className="About--name">Moram KedarNadh Reddy</h2>
-            <p class="About--text">Originally from the land of temples, Tirupati 🛕, now living the tech life in Bengaluru 💻🌆</p>
-            <p class="About--text">I spend my days coding and creating apps like a tech wizard 🧙♂️✨</p>
+            <p class="About--text">Originally from the land of temples, Tirupati <span class="emoji">🛕</span>, now living the tech life in Bengaluru <span class="emoji">💻</span><span class="emoji">🌆</span></p>
+            <p class="About--text">I spend my days coding and creating apps like a tech wizard <span class="emoji">🧙♂️</span><span class="emoji">✨</span></p>
             <div class="About--subgroup">
               <p class="About--text">When I'm not coding, you'll find me:</p>
               <ul class="About--text">
-                <li>Lost in movie marathons 🎞️🍿</li>
-                <li>Exploring YouTube rabbit holes 🔍🌍</li>
-                <li>Chilling with family & friends 👨👩👧👦🤗</li>
+                <li>Lost in movie marathons <span class="emoji">🎞️</span><span class="emoji">🍿</span></li>
+                <li>Exploring YouTube rabbit holes <span class="emoji">🔍</span></li>
+                <li>Chilling with family & friends<span class="emoji">🌍</span></li>
               </ul>
             </div>
             <p className="About--side-heading">Working Experience -</p>
