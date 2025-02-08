@@ -21,15 +21,15 @@ export default function About() {
       </p>
       <p className="About--text">
         I spend my days coding and creating apps like a tech wizard{" "}
-        <span className="emoji">🧙♂️</span>
+        <span className="emoji">🧙</span>
         <span className="emoji">✨</span>
       </p>
       <div className="About--subgroup">
         <p className="About--text">When I'm not coding, you'll find me:</p>
         <ul className="About--text">
-          <li> Lost in movie marathons <span className="emoji">🍿</span></li>
-          <li> Exploring YouTube rabbit holes <span className="emoji">🔍</span></li>
-          <li> Hanging out with family & friends <span className="emoji">🌍</span></li>
+          <li> Lost in movie marathons{" "}<span className="emoji">🍿</span></li>
+          <li> Exploring YouTube rabbit holes{" "}<span className="emoji">🔍</span></li>
+          <li> Hanging out with family & friends{" "}<span className="emoji">🌍</span></li>
         </ul>
       </div>
 
@@ -88,12 +88,8 @@ export default function About() {
       <div className="About--education">
         <div className="About--education-item">
           <div>
-            <p className="About--education-item-institute">
-              Sri Venkateswara College of Engineering - Tirupati
-            </p>
-            <p className="About--education-item-standard">
-              B.Tech in Electronics and Communication Engineering
-            </p>
+            <p className="About--education-item-institute">Sri Venkateswara College of Engineering - Tirupati</p>
+            <p className="About--education-item-standard">B.Tech in Electronics and Communication Engineering</p>
           </div>
           <p className="About--education-item-duration">(2019 - 2023)</p>
         </div>
