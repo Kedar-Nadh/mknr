@@ -62,7 +62,7 @@
 .About--side-heading {
   font-family: 'Fuzzy Bubbles', cursive;
   font-size: 1.2rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .About--work {
@@ -80,6 +80,7 @@
 .About--work-item-company {
   margin: 0px;
   padding-right: 20px;
+  font-weight: 600;
 }
 
 .About--work-item-position {
@@ -129,6 +130,7 @@
 
 .About--education-item-institute {
   margin: 0px;
+  font-weight: 600;
 }
 
 .About--education-item-standard {
