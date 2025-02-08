@@ -13,17 +13,7 @@ export default function About() {
         />
       </div>
       <h2 className="About--name">Moram KedarNadh Reddy</h2>
-      <p className="About--text">
-        Originally from the land of temples, Tirupati{" "}
-        <span className="emoji">🛕</span>, now living the tech life in Bengaluru{" "}
-        <span className="emoji">💻</span>
-        <span className="emoji">🌆</span>
-      </p>
-      <p className="About--text">
-        I spend my days coding and creating apps like a tech wizard{" "}
-        <span className="emoji">🧙</span>
-        <span className="emoji">✨</span>
-      </p>
+      <p className="About--text">Originally from the land of temples, Tirupati{" "}<span className="emoji">🛕</span>, now living the tech life in Bengaluru{" "}<span className="emoji">💻</span><span className="emoji">🌆</span>.I spend my days coding and creating apps like a tech wizard{" "}<span className="emoji">🧙</span><span className="emoji">✨</span></p>
       <div className="About--subgroup">
         <p className="About--text">When I'm not coding, you'll find me:</p>
         <ul className="About--text">
