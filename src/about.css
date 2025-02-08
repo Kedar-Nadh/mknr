@@ -165,6 +165,7 @@
   }
 
   .About--work-item {
+    font-size: 1rem;
     align-items: flex-start;
     flex-direction: column;
     margin-bottom: 4px;
