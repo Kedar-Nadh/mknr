@@ -27,12 +27,9 @@ export default function About() {
       <div className="About--subgroup">
         <p className="About--text">When I'm not coding, you'll find me:</p>
         <ul className="About--text">
-          <li>
-            Lost in movie marathons <span className="emoji">🎞️</span>
-            <span className="emoji">🍿</span>
-          </li>
-          <li>Exploring YouTube rabbit holes <span className="emoji">🔍</span></li>
-          <li>Chilling with family & friends <span className="emoji">🌍</span></li>
+          <li> Lost in movie marathons <span className="emoji">🍿</span></li>
+          <li> Exploring YouTube rabbit holes <span className="emoji">🔍</span></li>
+          <li> Hanging out with family & friends <span className="emoji">🌍</span></li>
         </ul>
       </div>
 
@@ -41,9 +38,7 @@ export default function About() {
         <div>
           <div className="About--work-item">
             <div>
-              <p className="About--work-item-company">
-                Torry Harris Integration Solutions
-              </p>
+              <p className="About--work-item-company">Torry Harris Integration Solutions</p>
               <p className="About--work-item-position">Associate Software Engineer</p>
             </div>
             <p className="About--work-item-duration">(Feb 2024 – Present)</p>
@@ -58,9 +53,7 @@ export default function About() {
         <div>
           <div className="About--work-item">
             <div>
-              <p className="About--work-item-company">
-                Torry Harris Integration Solutions
-              </p>
+              <p className="About--work-item-company">Torry Harris Integration Solutions</p>
               <p className="About--work-item-position">Associate Software Engineer Trainee</p>
             </div>
             <p className="About--work-item-duration">(Aug 2023 – Feb 2024)</p>
@@ -88,6 +81,7 @@ export default function About() {
         <li className="About--skills-item">Figma</li>
         <li className="About--skills-item">Docker</li>
         <li className="About--skills-item">Kubernetes</li>
+        <li className="About--skills-item">Ab Initio</li>
       </ul>
 
       <p className="About--side-heading">Educational History -</p>
