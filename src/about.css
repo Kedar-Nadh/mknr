@@ -170,9 +170,13 @@
     gap: 0px;
   }
 
-  .About--work-item-description {
-    font-size: 1rem;
-  }
+.About--work-item-description {
+  font-size: 1rem;
+  margin: 0px;
+  list-style-type: disc;
+  margin-left: 1.5rem;
+  margin-bottom: 20px;
+}
 
   .About--education {
     font-size: 1.1rem;
