@@ -37,19 +37,18 @@
   font-size: 1.1rem;
   letter-spacing: -0.05em;
   line-height: 1.4; 
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.rem;
   list-style-type: disc;
 }
 
 .About--subgroup ul {
   padding-left: 1.5rem;
   list-style-position: outside;
+  list-style-type: disc;
 }
 
 .About--subgroup li {
-  margin-bottom: 0.4rem;
   text-indent: -0.5rem;
-  display: flex;
   align-items: baseline;
 }
 
@@ -90,7 +89,7 @@
 }
 
 .About--work-item-description {
-  font-size: 0.9rem;
+  font-size: 1rem;
   margin: 0px;
   list-style-type: disc;
   margin-left: 1.5rem;
@@ -157,10 +156,6 @@
 
   .emoji {
     font-size: 0.9em;
-  }
-
-  .About--subgroup li {
-    align-items: center;
   }
 
   .About--work {
